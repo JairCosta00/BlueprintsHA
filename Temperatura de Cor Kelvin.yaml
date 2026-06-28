@@ -1,6 +1,6 @@
 blueprint:
   name: Sincronizar Temperatura de Cor com a Luz Natural
-  description: description: Ajusta automaticamente a temperatura de cor das luzes conforme a posição do sol. É executado quando uma luz é ligada, quando a elevação do sol muda e a cada 5 minutos.
+  description: Ajusta automaticamente a temperatura de cor das luzes conforme a posição do sol. É executado quando uma luz é ligada, quando a elevação do sol muda e a cada 5 minutos.
   domain: automation
   input:
     target_lights:
